@@ -13,6 +13,7 @@ COMPILE TOOLS
 
 AUTHORS
 ===============
+* Port: Mentore Siesto
 * Thomas E. Dickey
 
 LINKS

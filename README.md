@@ -1,4 +1,4 @@
-DEV-C---UTIL-BCPP
+DEV-CPLUSPLUS-UTIL-BCPP
 =================
 
 BCPP, a C++ source beautifier.

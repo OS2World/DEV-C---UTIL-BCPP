@@ -5,7 +5,7 @@ BCPP, a C++ source beautifier.
 
 LICENSE
 ===============
-* Not Specified
+* Read License
 
 COMPILE TOOLS
 ===============
@@ -13,7 +13,7 @@ COMPILE TOOLS
 
 AUTHORS
 ===============
-* David Moskowitz
+* Thomas E. Dickey
 
 LINKS
 ===============

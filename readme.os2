@@ -1,0 +1,18 @@
+This is BCPP, a C++ beautifier from the opensource.
+
+I just ported it with the Build Environment from Paul Smedley,
+and renamed the two .bat files bcppall.bat and indent.bat into
+.cmd for using them with the OS/2 command interpreter.
+
+For informations on how to use bcpp.exe consult the manpages
+saved into the txtdocs subdirectory.
+
+If you find this program useful, please consider making a donation
+to Paul Smedley, whose work on OS/2 makes it possible to increase
+native applications for OS/2.
+
+Have fun!
+
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
